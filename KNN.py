@@ -109,6 +109,7 @@ def main(argv):
         myKNNsum += displayTest(targets_predicted,targets_test)
     print ("My KNN Average : ", myKNNsum / testCount)
     print ("sklearn KNN Average : ", sklearnKnnSum / testCount)
+    print ("difference :", abs((myKNNsum / testCount) - (sklearnKnnSum / testCount)) )
     return None
 
 

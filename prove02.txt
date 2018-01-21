@@ -1,0 +1,31 @@
+When your assignment is complete, please answer the questions in this text file and upload it to I-Learn.
+
+1. Please provide the URL of your public GitHub repository.
+	https://github.com/CodyAslett/cs450_week2/blob/master/KNN.py
+
+2. Briefly describe your overall approach to the task and highlight the most difficult part of this assignment.
+	For each element of the test data I would determin the distance each of the training set is from that point. 
+	Then sort the training data by that distance and only keep smallist K-number of them.
+	
+
+3. Briefly describe your process for handling numeric data on different scales (i.e., normalizing).
+
+
+4. Describe your results for the Iris data set. (For example, what level of accuracy did you see for different values of K?
+	around 95%
+
+5. How did your implementation compare to existing implementations?
+	less then .1%
+
+6. Describe anything you did to go above and beyond the minimum standard requirements.
+
+
+7. Please select the category you feel best describes your assignment:
+A - Some attempt was made
+B - Developing, but significantly deficient
+C - Slightly deficient, but still mostly adequate
+D - Meets requirements
+E - Shows creativity and excels above and beyond requirements
+
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
